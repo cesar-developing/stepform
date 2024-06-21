@@ -1,6 +1,3 @@
-
-Claro, aqui está a descrição em um formato que você pode simplesmente copiar e colar:
-
 🖥️ Simulação de App com Next.js, TypeScript, Tailwind CSS, MUI e Framer Motion
 📋 Descrição
 Este projeto é uma simulação de um aplicativo web construído com Next.js, TypeScript, Tailwind CSS, Material-UI (MUI) e Framer Motion. O principal objetivo é demonstrar uma animação de transição de página utilizando Framer Motion. Quando o usuário clica no primeiro botão na página inicial, a página deve animar vindo da direita para a esquerda. 🎬✨
