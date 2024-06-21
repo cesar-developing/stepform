@@ -1,40 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+Claro, aqui está a descrição em um formato que você pode simplesmente copiar e colar:
 
-First, run the development server:
+🖥️ Simulação de App com Next.js, TypeScript, Tailwind CSS, MUI e Framer Motion
+📋 Descrição
+Este projeto é uma simulação de um aplicativo web construído com Next.js, TypeScript, Tailwind CSS, Material-UI (MUI) e Framer Motion. O principal objetivo é demonstrar uma animação de transição de página utilizando Framer Motion. Quando o usuário clica no primeiro botão na página inicial, a página deve animar vindo da direita para a esquerda. 🎬✨
+
+🚀 Tecnologias Utilizadas
+Next.js: Framework React para aplicações web.
+TypeScript: Superset do JavaScript que adiciona tipagem estática.
+Tailwind CSS: Framework CSS utilitário para estilização rápida.
+Material-UI (MUI): Biblioteca de componentes React para design.
+Framer Motion: Biblioteca de animação para React.
+
+
+🏃‍♂️ Executando o Projeto
+Pré-requisitos
+Certifique-se de ter o Node.js e o npm instalados na sua máquina.
+
+Instalação
+Clone o repositório:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/cesar-developing/stepform
 ```
+Instale as dependências:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+npm install
+```
+Desenvolvimento
+Para iniciar o servidor de desenvolvimento, execute:
+```bash
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+npm run dev
+```
+Abra http://localhost:3000 no navegador para ver a aplicação. 📱💻
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+🖱️ Como Funciona
+Página Inicial: Navegue até o diretório /home e clique no primeiro botão da página inicial.
+Animação: A transição da página será animada usando Framer Motion, deslizando da direita para a esquerda. Veja a mágica acontecer! 🎩✨
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+📚 Documentação e Recursos
+Next.js Documentation
+TypeScript Documentation
+Tailwind CSS Documentation
+Material-UI Documentation
+Framer Motion Documentation
